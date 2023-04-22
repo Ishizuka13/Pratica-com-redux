@@ -1,0 +1,5 @@
+- store = storage -> lugar onde será armazenado as informaçoes
+- provider -> permite que o store seja disponibilizado para toda a aplicação
+- reducers / slice 
+- actions / dispatches-> funções
+- selectors
